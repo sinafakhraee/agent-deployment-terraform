@@ -1,0 +1,5 @@
+{
+  "model": "gpt-4o",
+  "name": "workshop-demo-agent",
+  "instructions": "You are a friendly assistant that answers basic questions about Azure services."
+}
